@@ -1,1 +1,1 @@
-[English](./docs/en/README-en.md) | [中文](./docs/zh/README-zh.md)
+[English](./README_EN.md) | [中文](./README_CN.md)
